@@ -13,7 +13,7 @@ public class Main {
             
             // read input data
             
-            InputData input = new InputData();
+            InputData input = new InputData(); 
             
             // test conversion methods
 

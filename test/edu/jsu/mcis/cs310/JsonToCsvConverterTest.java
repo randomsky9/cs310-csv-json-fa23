@@ -12,7 +12,7 @@ public class JsonToCsvConverterTest {
     @Before
     public void setUp() {
 
-        InputData input = new InputData();
+        InputData input = new InputData(); 
         
         csvString = input.getCsvString();
         jsonString = input.getJsonString();
